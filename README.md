@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Matheus, a backend JAVA developer 👨‍💻 working in Auto Pratense since 2018 🚀</div>  
+### <div align="center">I'm Matheus, a backend ADVPL senior developer 👨‍💻 working in Imdepa Rolamentos since 2023 🚀</div>  
   
 
 - 🔭 I'm currently working on systems integration and maintenance.  
   
 
-- 🌱 I’m currently learning ADVPL ang Git.  
+- 🌱 I’m currently learning Python.  
   
 
-- ❓ Ask me about anything related to Java and related technologies  
+- ❓ Ask me about anything related to Java, ADVPL and related technologies  
   
 
 <br/>  
